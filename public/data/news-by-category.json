@@ -1,0 +1,1315 @@
+{
+  "categories": {
+    "status": true,
+    "data": {
+      "news_category": [
+        {
+          "category_id": "01",
+          "category_name": "Breaking News"
+        },
+        {
+          "category_id": "02",
+          "category_name": "Regular News"
+        },
+        {
+          "category_id": "03",
+          "category_name": "International News"
+        },
+        {
+          "category_id": "04",
+          "category_name": "Sports"
+        },
+        {
+          "category_id": "05",
+          "category_name": "Entertainment"
+        },
+        {
+          "category_id": "06",
+          "category_name": "Culture"
+        },
+        {
+          "category_id": "07",
+          "category_name": "Arts"
+        },
+        {
+          "category_id": "08",
+          "category_name": "All News"
+        }
+      ]
+    }
+  },
+  "by_category": {
+    "01": {
+      "status": true,
+      "data": [
+        {
+          "_id": "7c7034d78666b24680a2aff07425d276",
+          "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 3768,
+          "title": "Emergency cooling centres open as a prolonged heat alert continues",
+          "author": {
+            "name": "Nadia Rahman",
+            "published_date": "2026-08-26 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=7c7034d78666"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/7c7034d78666-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/7c7034d78666-image/1200/675",
+          "details": "Local authorities have opened public cooling centres at libraries and community halls while temperatures remain unusually high. Volunteers are distributing drinking water and checking on older residents and people who work outdoors."
+        },
+        {
+          "_id": "d670bc2226249ccffe233e49bb28a1c9",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+          },
+          "total_view": 1269,
+          "title": "Repair teams reinforce river embankment after overnight water rise",
+          "author": {
+            "name": "Imran Hossain",
+            "published_date": "2026-08-21 12:29:00",
+            "img": "https://i.pravatar.cc/150?u=d670bc222624"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/d670bc222624-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/d670bc222624-image/1200/675",
+          "details": "Engineering crews have begun reinforcing a vulnerable stretch of riverbank after water levels rose overnight. Officials asked nearby households to follow local advisories while pumps and sandbags are positioned along the lowest sections."
+        },
+        {
+          "_id": "147c9979ae84077d277deec963b34af5",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.0,
+            "badge": "Good"
+          },
+          "total_view": 3554,
+          "title": "Metro service returns to normal after a signalling interruption",
+          "author": {
+            "name": "Sadia Karim",
+            "published_date": "2026-09-03 14:36:00",
+            "img": "https://i.pravatar.cc/150?u=147c9979ae84"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/147c9979ae84-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/147c9979ae84-image/1200/675",
+          "details": "Train services resumed after technicians resolved a signalling fault that caused delays during the morning commute. The operator said inspections would continue through the day and advised passengers to allow extra travel time."
+        },
+        {
+          "_id": "b536008a09d5bc3ea22899354d246448",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+          },
+          "total_view": 1270,
+          "title": "Schools move morning classes online as severe weather approaches",
+          "author": {
+            "name": "Farhan Ahmed",
+            "published_date": "2026-09-09 16:43:00",
+            "img": "https://i.pravatar.cc/150?u=b536008a09d5"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/b536008a09d5-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/b536008a09d5-image/1200/675",
+          "details": "Several schools have shifted morning lessons online as a precaution ahead of a forecast period of heavy rain and strong winds. School administrators said families would receive updates before any decision about afternoon activities."
+        },
+        {
+          "_id": "e8114726b29e0220a56fb98bbc3a192c",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.3,
+            "badge": "Very Good"
+          },
+          "total_view": 3332,
+          "title": "New rapid-response unit launched to improve emergency road care",
+          "author": {
+            "name": "Mehedi Hasan",
+            "published_date": "2026-08-24 18:50:00",
+            "img": "https://i.pravatar.cc/150?u=e8114726b29e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/e8114726b29e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/e8114726b29e-image/1200/675",
+          "details": "A new response unit will coordinate ambulances, traffic teams and nearby hospitals to reduce delays after serious road accidents. The pilot programme begins in selected high-traffic areas before a wider review later in the year."
+        },
+        {
+          "_id": "5d899356438eff3caa65ae5ebb6b04a1",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.1,
+            "badge": "Good"
+          },
+          "total_view": 3182,
+          "title": "Power restored to several neighbourhoods following overnight storm",
+          "author": {
+            "name": "Tania Sultana",
+            "published_date": "2026-09-04 08:57:00",
+            "img": "https://i.pravatar.cc/150?u=5d899356438e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/5d899356438e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/5d899356438e-image/1200/675",
+          "details": "Electricity crews restored supply to most affected neighbourhoods after an overnight storm damaged distribution equipment. Repair teams remain on standby to address isolated faults and residents have been asked to report fallen wires safely."
+        },
+        {
+          "_id": "9915e068ee3b5c9fcf36f430d23bcfbd",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+          },
+          "total_view": 2370,
+          "title": "Relief teams deliver drinking water after a landslide blocks village road",
+          "author": {
+            "name": "Arif Mahmud",
+            "published_date": "2026-09-13 11:04:00",
+            "img": "https://i.pravatar.cc/150?u=9915e068ee3b"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/9915e068ee3b-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/9915e068ee3b-image/1200/675",
+          "details": "Relief workers are using smaller vehicles to deliver drinking water and essential supplies after a landslide blocked the main road to a hillside community. A technical team is assessing slope stability before heavy equipment can clear the route."
+        }
+      ]
+    },
+    "02": {
+      "status": true,
+      "data": [
+        {
+          "_id": "74cae4c2c5af7acebdd267a36c7d72ae",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 3091,
+          "title": "Public library extends evening hours after strong community turnout",
+          "author": {
+            "name": "Maliha Chowdhury",
+            "published_date": "2026-09-17 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=74cae4c2c5af"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/74cae4c2c5af-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/74cae4c2c5af-image/1200/675",
+          "details": "The city library will remain open later on weekdays following increased use by students, remote workers and families. The extended schedule also includes more study desks and a weekly session on finding reliable information online."
+        },
+        {
+          "_id": "4178f3a5b235bf1392ceb3f4f959b155",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+          },
+          "total_view": 3625,
+          "title": "Small farms test water-saving irrigation ahead of the dry season",
+          "author": {
+            "name": "Rafiq Islam",
+            "published_date": "2026-09-24 12:29:00",
+            "img": "https://i.pravatar.cc/150?u=4178f3a5b235"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/4178f3a5b235-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/4178f3a5b235-image/1200/675",
+          "details": "A group of growers has started testing low-cost drip irrigation and soil-moisture monitoring on small plots. The project will compare water use and crop yields to help farmers decide which methods are practical for the next season."
+        },
+        {
+          "_id": "2f656ecc42782db5240c6c522b1c2c13",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.0,
+            "badge": "Good"
+          },
+          "total_view": 4546,
+          "title": "Community clinic adds weekend appointments for routine check-ups",
+          "author": {
+            "name": "Nusrat Jahan",
+            "published_date": "2026-09-17 14:36:00",
+            "img": "https://i.pravatar.cc/150?u=2f656ecc4278"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/2f656ecc4278-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/2f656ecc4278-image/1200/675",
+          "details": "The clinic has introduced weekend appointments to make routine consultations easier for people who work during the week. Staff say the initial schedule will focus on general check-ups, vaccinations and basic health education."
+        },
+        {
+          "_id": "f58ee8c17ade937227bd05e700ac6ff2",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+          },
+          "total_view": 415,
+          "title": "New bus timetable aims to reduce crowding during peak hours",
+          "author": {
+            "name": "Kamal Uddin",
+            "published_date": "2026-10-06 16:43:00",
+            "img": "https://i.pravatar.cc/150?u=f58ee8c17ade"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/f58ee8c17ade-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/f58ee8c17ade-image/1200/675",
+          "details": "Transit planners have adjusted departure times on several busy routes after reviewing passenger counts. The change adds a few early trips and redistributes buses around the busiest stops, with passenger feedback due to be reviewed next month."
+        },
+        {
+          "_id": "9b6d4bcc5574c1d3539c813b940f53e2",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.3,
+            "badge": "Very Good"
+          },
+          "total_view": 4079,
+          "title": "Students build low-cost air-quality monitors for a science project",
+          "author": {
+            "name": "Raisa Ahmed",
+            "published_date": "2026-09-08 18:50:00",
+            "img": "https://i.pravatar.cc/150?u=9b6d4bcc5574"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/9b6d4bcc5574-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/9b6d4bcc5574-image/1200/675",
+          "details": "A school science club has built small air-quality monitors using affordable sensors and open-source software. Teachers say the project gives students practical experience with measurement and data analysis while encouraging discussion about local environmental conditions."
+        },
+        {
+          "_id": "39fd81e291f699c40892c69b8e9289ed",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.1,
+            "badge": "Good"
+          },
+          "total_view": 1152,
+          "title": "Weekend market introduces reusable packaging options for shoppers",
+          "author": {
+            "name": "Sharmeen Akter",
+            "published_date": "2026-10-04 08:57:00",
+            "img": "https://i.pravatar.cc/150?u=39fd81e291f6"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/39fd81e291f6-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/39fd81e291f6-image/1200/675",
+          "details": "Vendors at the weekend market are trialling reusable containers and a return point for shoppers who want to avoid single-use packaging. Organisers will track participation and cleaning costs before deciding whether to expand the scheme."
+        },
+        {
+          "_id": "6dbc76d3545fa2949fc5cd4d8fd68b67",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+          },
+          "total_view": 1592,
+          "title": "Training programme helps job seekers practise digital workplace skills",
+          "author": {
+            "name": "Jubayer Alam",
+            "published_date": "2026-09-26 11:04:00",
+            "img": "https://i.pravatar.cc/150?u=6dbc76d3545f"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/6dbc76d3545f-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/6dbc76d3545f-image/1200/675",
+          "details": "A community training programme is offering short classes in spreadsheets, email communication and online collaboration. Organisers hope the sessions will help job seekers build confidence with tools commonly used in entry-level office roles."
+        }
+      ]
+    },
+    "03": {
+      "status": true,
+      "data": [
+        {
+          "_id": "041bbd0cf8d4023cc65a5aaa12c083fd",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 2546,
+          "title": "Regional partners agree to share early warnings for coastal storms",
+          "author": {
+            "name": "Elena Morris",
+            "published_date": "2026-08-21 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=041bbd0cf8d4"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/041bbd0cf8d4-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/041bbd0cf8d4-image/1200/675",
+          "details": "Representatives from several coastal administrations have agreed to improve the exchange of storm forecasts and evacuation guidance. The proposed coordination plan includes shared alert templates and exercises for emergency teams before the next storm season."
+        },
+        {
+          "_id": "be43e633ef2983bbc5733ed26b0aa81c",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+          },
+          "total_view": 4534,
+          "title": "Cross-border research network launches clean-water monitoring project",
+          "author": {
+            "name": "Daniel Okafor",
+            "published_date": "2026-09-16 12:29:00",
+            "img": "https://i.pravatar.cc/150?u=be43e633ef29"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/be43e633ef29-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/be43e633ef29-image/1200/675",
+          "details": "Universities and water agencies have formed a research network to compare river-quality measurements across borders. The first phase will standardise sample collection and publish an open set of baseline readings for researchers and local communities."
+        },
+        {
+          "_id": "19df714a3a3e7c3a7fb946a5c446be71",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.0,
+            "badge": "Good"
+          },
+          "total_view": 1266,
+          "title": "International transport forum focuses on safer and greener shipping",
+          "author": {
+            "name": "Priya Nair",
+            "published_date": "2026-09-07 14:36:00",
+            "img": "https://i.pravatar.cc/150?u=19df714a3a3e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/19df714a3a3e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/19df714a3a3e-image/1200/675",
+          "details": "Delegates at a transport forum are discussing fuel efficiency, port congestion and better safety procedures for shipping routes. Organisers expect the recommendations to be published after technical groups finish reviewing the proposals."
+        },
+        {
+          "_id": "c526884ea63b4770a1c7dbfba00f2f7f",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+          },
+          "total_view": 563,
+          "title": "Neighbouring countries expand student exchange opportunities",
+          "author": {
+            "name": "Luca Fernandez",
+            "published_date": "2026-09-19 16:43:00",
+            "img": "https://i.pravatar.cc/150?u=c526884ea63b"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/c526884ea63b-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/c526884ea63b-image/1200/675",
+          "details": "Education officials have outlined a new exchange programme that will let more university students complete short study placements abroad. Participating institutions plan to publish eligibility rules and application dates after finalising credit-transfer arrangements."
+        },
+        {
+          "_id": "122673a6545e1c2c686bb13faf3a53cd",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.3,
+            "badge": "Very Good"
+          },
+          "total_view": 4090,
+          "title": "Global food initiative backs climate-resilient crop trials",
+          "author": {
+            "name": "Amara Diallo",
+            "published_date": "2026-09-10 18:50:00",
+            "img": "https://i.pravatar.cc/150?u=122673a6545e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/122673a6545e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/122673a6545e-image/1200/675",
+          "details": "A food-security initiative has funded pilot trials of crop varieties designed to tolerate changing rainfall patterns. Researchers will compare harvest results and gather feedback from farmers before recommending approaches for wider testing."
+        },
+        {
+          "_id": "9273308cabb8a10bc2b7198aac51cc1b",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.1,
+            "badge": "Good"
+          },
+          "total_view": 1946,
+          "title": "Ports begin joint exercise to prepare for major cargo disruptions",
+          "author": {
+            "name": "Kenji Watanabe",
+            "published_date": "2026-09-20 08:57:00",
+            "img": "https://i.pravatar.cc/150?u=9273308cabb8"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/9273308cabb8-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/9273308cabb8-image/1200/675",
+          "details": "Port operators and emergency agencies have run a joint exercise focused on rerouting cargo when a key terminal becomes unavailable. The exercise tested information-sharing and plans for keeping essential goods moving during prolonged disruption."
+        },
+        {
+          "_id": "bcdbc319a527117d412c6d3585386863",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+          },
+          "total_view": 2329,
+          "title": "Public health partnership shares lessons from mobile vaccination units",
+          "author": {
+            "name": "Sofia Petrova",
+            "published_date": "2026-08-17 11:04:00",
+            "img": "https://i.pravatar.cc/150?u=bcdbc319a527"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/bcdbc319a527-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/bcdbc319a527-image/1200/675",
+          "details": "Health organisations have published a joint review of mobile vaccination services used to reach remote communities. The review highlights transport planning, trusted local communication and reliable cold storage as important factors for future programmes."
+        }
+      ]
+    },
+    "04": {
+      "status": true,
+      "data": [
+        {
+          "_id": "829c158775fdcb0bd330fa74b8e04a72",
+          "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 4755,
+          "title": "Under-19 cricket side seals close win after a disciplined bowling spell",
+          "author": {
+            "name": "Ahsan Kabir",
+            "published_date": "2026-10-05 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=829c158775fd"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/829c158775fd-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/829c158775fd-image/1200/675",
+          "details": "The under-19 side defended a modest total by keeping the scoring rate under control in the final overs. Coaches praised the bowlers' composure and said the team would use the match to prepare for its upcoming development series."
+        },
+        {
+          "_id": "837907e5ea96e62aa75e9506f68f3d42",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+          },
+          "total_view": 3269,
+          "title": "City marathon adds a shorter route to welcome first-time runners",
+          "author": {
+            "name": "Mariam Begum",
+            "published_date": "2026-10-06 12:29:00",
+            "img": "https://i.pravatar.cc/150?u=837907e5ea96"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/837907e5ea96-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/837907e5ea96-image/1200/675",
+          "details": "Organisers have added a shorter course alongside the traditional marathon distance to make the event more accessible to beginners. The event will also provide water stations, pace guidance and a warm-up area led by volunteer coaches."
+        },
+        {
+          "_id": "2cbfeb061762b2e24be3bb4e2b1205c6",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.0,
+            "badge": "Good"
+          },
+          "total_view": 2015,
+          "title": "Young badminton pair reaches the final after a three-game comeback",
+          "author": {
+            "name": "Hasib Rahman",
+            "published_date": "2026-08-30 14:36:00",
+            "img": "https://i.pravatar.cc/150?u=2cbfeb061762"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/2cbfeb061762-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/2cbfeb061762-image/1200/675",
+          "details": "The pair recovered from a slow start and changed tactics to win a demanding semi-final. Their coach said better communication at the net made the difference and that the final would be another test of consistency."
+        },
+        {
+          "_id": "4a3a0449cd6833bfbeab2e2051c3ff1b",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+          },
+          "total_view": 1970,
+          "title": "Women’s football league announces expanded youth development round",
+          "author": {
+            "name": "Lamia Islam",
+            "published_date": "2026-09-11 16:43:00",
+            "img": "https://i.pravatar.cc/150?u=4a3a0449cd68"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/4a3a0449cd68-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/4a3a0449cd68-image/1200/675",
+          "details": "League organisers have announced an additional youth round designed to give more academy players competitive minutes. Clubs will be encouraged to rotate their squads and share coaching resources during the expanded schedule."
+        },
+        {
+          "_id": "81f537bfec14b22fe98184b22a16ed12",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.3,
+            "badge": "Very Good"
+          },
+          "total_view": 3382,
+          "title": "Cycling team tests a new training plan ahead of the national tour",
+          "author": {
+            "name": "Tanvir Huda",
+            "published_date": "2026-10-03 18:50:00",
+            "img": "https://i.pravatar.cc/150?u=81f537bfec14"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/81f537bfec14-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/81f537bfec14-image/1200/675",
+          "details": "The cycling squad has begun a training block that combines endurance rides with recovery sessions and route-specific practice. Team staff will review performance data weekly and adjust workloads to keep riders fresh for the national tour."
+        },
+        {
+          "_id": "adecdc7c99edcabc3342effdcd41e9cc",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.1,
+            "badge": "Good"
+          },
+          "total_view": 4924,
+          "title": "Local basketball final decided by a late defensive stop",
+          "author": {
+            "name": "Rashed Noor",
+            "published_date": "2026-09-13 08:57:00",
+            "img": "https://i.pravatar.cc/150?u=adecdc7c99ed"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/adecdc7c99ed-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/adecdc7c99ed-image/1200/675",
+          "details": "A late defensive play secured a narrow win in the local basketball final after both teams traded leads throughout the fourth quarter. Spectators praised the close contest, while organisers highlighted the turnout for the community competition."
+        },
+        {
+          "_id": "3448f75814aed71ba2a0fa14a4ed3941",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+          },
+          "total_view": 1084,
+          "title": "Swimmer sets a personal best at the regional youth meet",
+          "author": {
+            "name": "Anika Das",
+            "published_date": "2026-09-03 11:04:00",
+            "img": "https://i.pravatar.cc/150?u=3448f75814ae"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/3448f75814ae-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/3448f75814ae-image/1200/675",
+          "details": "A young swimmer recorded a personal best in the freestyle event at the regional youth meet. The coaching team said the result reflected steady progress in technique and pacing, with more competitions planned later in the season."
+        }
+      ]
+    },
+    "05": {
+      "status": true,
+      "data": [
+        {
+          "_id": "3277f4577d9945fbbf83a02b66e07ccc",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 103,
+          "title": "Independent film festival unveils a programme of emerging directors",
+          "author": {
+            "name": "Nabila Haque",
+            "published_date": "2026-10-03 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=3277f4577d99"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/3277f4577d99-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/3277f4577d99-image/1200/675",
+          "details": "The festival has announced a programme featuring first-time directors, short documentaries and small-budget dramas. Screenings will be accompanied by audience discussions so filmmakers can talk about their process and connect with local viewers."
+        },
+        {
+          "_id": "19e30518432b50069865091b4e4167ff",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+          },
+          "total_view": 850,
+          "title": "Popular singer announces an acoustic session for charity",
+          "author": {
+            "name": "Omar Faruk",
+            "published_date": "2026-09-11 12:29:00",
+            "img": "https://i.pravatar.cc/150?u=19e30518432b"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/19e30518432b-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/19e30518432b-image/1200/675",
+          "details": "A singer has announced a special acoustic performance to raise funds for a community education project. The event will feature stripped-back arrangements and a short conversation about how contributions will support the programme."
+        },
+        {
+          "_id": "dd2d75c7af7e50f28e88cb6ecfdd32f6",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.0,
+            "badge": "Good"
+          },
+          "total_view": 1527,
+          "title": "Streaming platform adds a collection of classic family films",
+          "author": {
+            "name": "Zara Mitchell",
+            "published_date": "2026-09-10 14:36:00",
+            "img": "https://i.pravatar.cc/150?u=dd2d75c7af7e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/dd2d75c7af7e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/dd2d75c7af7e-image/1200/675",
+          "details": "A streaming service is adding a curated collection of family films from several decades. The collection includes viewing notes and short introductions intended to help parents choose titles for different age groups."
+        },
+        {
+          "_id": "8497de4cf0e92c9192173f5f363d3d7d",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+          },
+          "total_view": 1221,
+          "title": "Television drama begins production on a new season",
+          "author": {
+            "name": "Sanjida Noor",
+            "published_date": "2026-08-23 16:43:00",
+            "img": "https://i.pravatar.cc/150?u=8497de4cf0e9"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/8497de4cf0e9-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/8497de4cf0e9-image/1200/675",
+          "details": "The production team has begun filming a new season of the drama, with returning cast members and several new characters. The creators say the story will continue exploring family relationships while introducing a different central mystery."
+        },
+        {
+          "_id": "d92f1cc02a3b64615d09a2d878d961e9",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.3,
+            "badge": "Very Good"
+          },
+          "total_view": 2872,
+          "title": "Animation studio shares the first look at an original adventure",
+          "author": {
+            "name": "Rohan Sen",
+            "published_date": "2026-10-03 18:50:00",
+            "img": "https://i.pravatar.cc/150?u=d92f1cc02a3b"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/d92f1cc02a3b-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/d92f1cc02a3b-image/1200/675",
+          "details": "An independent animation studio has released early artwork for an original adventure centred on a group of young inventors. The team says the project combines hand-drawn backgrounds with digital animation and is still in development."
+        },
+        {
+          "_id": "31edde3acf73b39776ad09faf044fdfa",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.1,
+            "badge": "Good"
+          },
+          "total_view": 1554,
+          "title": "Documentary series follows the people behind live music events",
+          "author": {
+            "name": "Farzana Islam",
+            "published_date": "2026-09-05 08:57:00",
+            "img": "https://i.pravatar.cc/150?u=31edde3acf73"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/31edde3acf73-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/31edde3acf73-image/1200/675",
+          "details": "A new documentary series looks at the technicians, stage managers and crew members who make live music possible. Each episode follows a different team as it prepares for a performance under tight deadlines."
+        },
+        {
+          "_id": "3a28b4fbebd3b6cf98c2cf684238842a",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+          },
+          "total_view": 3315,
+          "title": "Comedy performers announce a collaborative live tour",
+          "author": {
+            "name": "Ethan Brooks",
+            "published_date": "2026-09-22 11:04:00",
+            "img": "https://i.pravatar.cc/150?u=3a28b4fbebd3"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/3a28b4fbebd3-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/3a28b4fbebd3-image/1200/675",
+          "details": "A group of comedy performers will tour several theatres with a show that mixes solo sets and improvised scenes. Organisers say the format will change from city to city, giving audiences a different experience at each performance."
+        }
+      ]
+    },
+    "06": {
+      "status": true,
+      "data": [
+        {
+          "_id": "f1f84e78144c8bc3f1e4d2eeb8b571cc",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 2570,
+          "title": "Traditional weaving workshop brings master craftspeople and students together",
+          "author": {
+            "name": "Ayesha Kabir",
+            "published_date": "2026-08-29 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=f1f84e78144c"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/f1f84e78144c-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/f1f84e78144c-image/1200/675",
+          "details": "A week-long workshop is pairing experienced weavers with students who want to learn traditional techniques. Participants will practise pattern planning, yarn preparation and finishing while documenting methods for a community archive."
+        },
+        {
+          "_id": "ab5b55ee6ac38d1e73e02029c3bb577b",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+          },
+          "total_view": 1653,
+          "title": "Local food heritage project records recipes from older generations",
+          "author": {
+            "name": "Sabbir Hossain",
+            "published_date": "2026-09-16 12:29:00",
+            "img": "https://i.pravatar.cc/150?u=ab5b55ee6ac3"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/ab5b55ee6ac3-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/ab5b55ee6ac3-image/1200/675",
+          "details": "Volunteers are collecting family recipes and the stories connected to them for a local food heritage project. The organisers plan to create a digital archive that records ingredients, cooking methods and the occasions when each dish is prepared."
+        },
+        {
+          "_id": "907b96eaf66ff3cde4ceac715f48899f",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.0,
+            "badge": "Good"
+          },
+          "total_view": 2546,
+          "title": "Language club hosts a storytelling evening for young readers",
+          "author": {
+            "name": "Mou Roy",
+            "published_date": "2026-09-11 14:36:00",
+            "img": "https://i.pravatar.cc/150?u=907b96eaf66f"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/907b96eaf66f-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/907b96eaf66f-image/1200/675",
+          "details": "The language club is holding an evening of folk tales, poetry and short stories for young readers. Volunteers will lead activities designed to build reading confidence and encourage participants to share stories from their own families."
+        },
+        {
+          "_id": "b378eba9cd844252574cdc1edc75178e",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+          },
+          "total_view": 4762,
+          "title": "Museum opens an exhibition on everyday objects and urban life",
+          "author": {
+            "name": "Nayeem Kabir",
+            "published_date": "2026-09-03 16:43:00",
+            "img": "https://i.pravatar.cc/150?u=b378eba9cd84"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/b378eba9cd84-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/b378eba9cd84-image/1200/675",
+          "details": "The exhibition explores how ordinary household objects reflect changes in work, transport and family life. Visitors can see objects donated by residents alongside photographs and short audio interviews explaining their uses."
+        },
+        {
+          "_id": "902ccb48a4d88db8c83d568a6a23ab81",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.3,
+            "badge": "Very Good"
+          },
+          "total_view": 4474,
+          "title": "Community music group revives songs from the river region",
+          "author": {
+            "name": "Tasnim Jahan",
+            "published_date": "2026-08-18 18:50:00",
+            "img": "https://i.pravatar.cc/150?u=902ccb48a4d8"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/902ccb48a4d8-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/902ccb48a4d8-image/1200/675",
+          "details": "A community music group has arranged a series of performances built around songs traditionally sung by river workers and boat travellers. Musicians consulted local elders to preserve the lyrics and explain the context behind each piece."
+        },
+        {
+          "_id": "e05f898fce879bbe8eab0ccd850e4dd5",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.1,
+            "badge": "Good"
+          },
+          "total_view": 4453,
+          "title": "Festival celebrates regional textiles, crafts and oral histories",
+          "author": {
+            "name": "Shafiq Ahmed",
+            "published_date": "2026-09-03 08:57:00",
+            "img": "https://i.pravatar.cc/150?u=e05f898fce87"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/e05f898fce87-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/e05f898fce87-image/1200/675",
+          "details": "The festival will feature textile demonstrations, craft stalls and recordings of local oral histories. Organisers say the event is designed to give artisans a platform while helping younger visitors understand the skills behind regional traditions."
+        },
+        {
+          "_id": "32d09b03294bc9a7340ca88f65e76d3b",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+          },
+          "total_view": 1533,
+          "title": "Cultural centre launches archive of historic neighbourhood photographs",
+          "author": {
+            "name": "Rumana Akter",
+            "published_date": "2026-09-12 11:04:00",
+            "img": "https://i.pravatar.cc/150?u=32d09b03294b"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/32d09b03294b-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/32d09b03294b-image/1200/675",
+          "details": "Residents have contributed photographs and captions to a new archive documenting how the neighbourhood has changed over time. The centre will digitise the collection and invite the public to add dates, names and memories where possible."
+        }
+      ]
+    },
+    "07": {
+      "status": true,
+      "data": [
+        {
+          "_id": "212213ef798e890506680d74c95ed930",
+          "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 3211,
+          "title": "Young painters showcase works inspired by changing city skylines",
+          "author": {
+            "name": "Mina Sarker",
+            "published_date": "2026-08-27 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=212213ef798e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/212213ef798e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/212213ef798e-image/1200/675",
+          "details": "An exhibition of young painters examines how construction, transport and public spaces are reshaping the city. The works range from detailed street scenes to abstract colour studies, with artists scheduled to lead short gallery talks."
+        },
+        {
+          "_id": "a7d1aeb7a2d61a41a5b04a9cf823d4eb",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+          },
+          "total_view": 4033,
+          "title": "Sculpture collective turns discarded materials into public art",
+          "author": {
+            "name": "Adnan Karim",
+            "published_date": "2026-08-21 12:29:00",
+            "img": "https://i.pravatar.cc/150?u=a7d1aeb7a2d6"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/a7d1aeb7a2d6-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/a7d1aeb7a2d6-image/1200/675",
+          "details": "A sculpture collective has created a series of outdoor works from reclaimed wood, metal and other discarded materials. The installation invites visitors to consider how everyday waste can be transformed through design and collaborative making."
+        },
+        {
+          "_id": "8218252c48f18f179295042534df2882",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.0,
+            "badge": "Good"
+          },
+          "total_view": 1064,
+          "title": "Photography exhibition documents life along a busy railway line",
+          "author": {
+            "name": "Lily Chen",
+            "published_date": "2026-09-13 14:36:00",
+            "img": "https://i.pravatar.cc/150?u=8218252c48f1"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/8218252c48f1-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/8218252c48f1-image/1200/675",
+          "details": "The exhibition presents photographs of vendors, commuters and nearby households along a busy railway corridor. The photographer says the project focuses on daily routines and the connections that form around shared public infrastructure."
+        },
+        {
+          "_id": "75b87e81cc78acb76932434a4615db7a",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.7,
+            "badge": "Excellent"
+          },
+          "total_view": 197,
+          "title": "Illustrators publish a collaborative book of local urban legends",
+          "author": {
+            "name": "Rafi Ahmed",
+            "published_date": "2026-10-05 16:43:00",
+            "img": "https://i.pravatar.cc/150?u=75b87e81cc78"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/75b87e81cc78-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/75b87e81cc78-image/1200/675",
+          "details": "A group of illustrators has collaborated on a book that reimagines local urban legends through different visual styles. Each story includes a short note about its origins and how the artists adapted it for a contemporary audience."
+        },
+        {
+          "_id": "57520c719d96718e7684b902985accba",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.3,
+            "badge": "Very Good"
+          },
+          "total_view": 2387,
+          "title": "Design students present accessible furniture concepts for small homes",
+          "author": {
+            "name": "Sohana Das",
+            "published_date": "2026-09-08 18:50:00",
+            "img": "https://i.pravatar.cc/150?u=57520c719d96"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/57520c719d96-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/57520c719d96-image/1200/675",
+          "details": "Design students have presented furniture prototypes aimed at compact homes, including foldable desks and modular storage. Reviewers focused on safety, repairability and whether the designs could be produced with affordable materials."
+        },
+        {
+          "_id": "78e15bb5130eb6fd69b5e7e6a96e8b96",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.1,
+            "badge": "Good"
+          },
+          "total_view": 3038,
+          "title": "Printmaking studio hosts an open day for beginners",
+          "author": {
+            "name": "Ibrahim Rahman",
+            "published_date": "2026-09-19 08:57:00",
+            "img": "https://i.pravatar.cc/150?u=78e15bb5130e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/78e15bb5130e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/78e15bb5130e-image/1200/675",
+          "details": "A community printmaking studio will offer demonstrations of basic relief printing and safe material handling. Visitors can try a simple design, learn how prints are made and meet artists who use the studio for independent projects."
+        },
+        {
+          "_id": "74cd07a65362960aa68a94a2133ce5bc",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.6,
+            "badge": "Excellent"
+          },
+          "total_view": 1875,
+          "title": "Digital artists explore memory through an interactive gallery installation",
+          "author": {
+            "name": "Eva Martin",
+            "published_date": "2026-09-20 11:04:00",
+            "img": "https://i.pravatar.cc/150?u=74cd07a65362"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/74cd07a65362-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/74cd07a65362-image/1200/675",
+          "details": "A digital art installation invites visitors to contribute short memories that become part of a changing visual display. The artists say the work explores how personal recollections overlap, while allowing participants to choose whether their contributions are anonymous."
+        }
+      ]
+    },
+    "08": {
+      "status": true,
+      "data": [
+        {
+          "_id": "7c7034d78666b24680a2aff07425d276",
+          "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+          },
+          "category_id": "01",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 3768,
+          "title": "Emergency cooling centres open as a prolonged heat alert continues",
+          "author": {
+            "name": "Nadia Rahman",
+            "published_date": "2026-08-26 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=7c7034d78666"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/7c7034d78666-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/7c7034d78666-image/1200/675",
+          "details": "Local authorities have opened public cooling centres at libraries and community halls while temperatures remain unusually high. Volunteers are distributing drinking water and checking on older residents and people who work outdoors."
+        },
+        {
+          "_id": "74cae4c2c5af7acebdd267a36c7d72ae",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "02",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 3091,
+          "title": "Public library extends evening hours after strong community turnout",
+          "author": {
+            "name": "Maliha Chowdhury",
+            "published_date": "2026-09-17 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=74cae4c2c5af"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/74cae4c2c5af-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/74cae4c2c5af-image/1200/675",
+          "details": "The city library will remain open later on weekdays following increased use by students, remote workers and families. The extended schedule also includes more study desks and a weekly session on finding reliable information online."
+        },
+        {
+          "_id": "041bbd0cf8d4023cc65a5aaa12c083fd",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "03",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 2546,
+          "title": "Regional partners agree to share early warnings for coastal storms",
+          "author": {
+            "name": "Elena Morris",
+            "published_date": "2026-08-21 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=041bbd0cf8d4"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/041bbd0cf8d4-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/041bbd0cf8d4-image/1200/675",
+          "details": "Representatives from several coastal administrations have agreed to improve the exchange of storm forecasts and evacuation guidance. The proposed coordination plan includes shared alert templates and exercises for emergency teams before the next storm season."
+        },
+        {
+          "_id": "829c158775fdcb0bd330fa74b8e04a72",
+          "others_info": {
+            "is_todays_pick": true,
+            "is_trending": true
+          },
+          "category_id": "04",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 4755,
+          "title": "Under-19 cricket side seals close win after a disciplined bowling spell",
+          "author": {
+            "name": "Ahsan Kabir",
+            "published_date": "2026-10-05 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=829c158775fd"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/829c158775fd-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/829c158775fd-image/1200/675",
+          "details": "The under-19 side defended a modest total by keeping the scoring rate under control in the final overs. Coaches praised the bowlers' composure and said the team would use the match to prepare for its upcoming development series."
+        },
+        {
+          "_id": "3277f4577d9945fbbf83a02b66e07ccc",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+          },
+          "category_id": "05",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 103,
+          "title": "Independent film festival unveils a programme of emerging directors",
+          "author": {
+            "name": "Nabila Haque",
+            "published_date": "2026-10-03 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=3277f4577d99"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/3277f4577d99-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/3277f4577d99-image/1200/675",
+          "details": "The festival has announced a programme featuring first-time directors, short documentaries and small-budget dramas. Screenings will be accompanied by audience discussions so filmmakers can talk about their process and connect with local viewers."
+        },
+        {
+          "_id": "f1f84e78144c8bc3f1e4d2eeb8b571cc",
+          "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+          },
+          "category_id": "06",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 2570,
+          "title": "Traditional weaving workshop brings master craftspeople and students together",
+          "author": {
+            "name": "Ayesha Kabir",
+            "published_date": "2026-08-29 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=f1f84e78144c"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/f1f84e78144c-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/f1f84e78144c-image/1200/675",
+          "details": "A week-long workshop is pairing experienced weavers with students who want to learn traditional techniques. Participants will practise pattern planning, yarn preparation and finishing while documenting methods for a community archive."
+        },
+        {
+          "_id": "212213ef798e890506680d74c95ed930",
+          "others_info": {
+            "is_todays_pick": true,
+            "is_trending": false
+          },
+          "category_id": "07",
+          "rating": {
+            "number": 4.2,
+            "badge": "Good"
+          },
+          "total_view": 3211,
+          "title": "Young painters showcase works inspired by changing city skylines",
+          "author": {
+            "name": "Mina Sarker",
+            "published_date": "2026-08-27 10:22:00",
+            "img": "https://i.pravatar.cc/150?u=212213ef798e"
+          },
+          "thumbnail_url": "https://picsum.photos/seed/212213ef798e-thumb/640/360",
+          "image_url": "https://picsum.photos/seed/212213ef798e-image/1200/675",
+          "details": "An exhibition of young painters examines how construction, transport and public spaces are reshaping the city. The works range from detailed street scenes to abstract colour studies, with artists scheduled to lead short gallery talks."
+        }
+      ]
+    }
+  }
+}
