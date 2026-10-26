@@ -1,3 +1,5 @@
+import dns from "node:dns"
+dns.setServers(['8.8.8.8','8.8.4.4'])
 import NavBar from '@/components/NavBar'
 import ProfileAndLoginSection from '@/components/ProfileAndLoginSection'
 import React from 'react';
